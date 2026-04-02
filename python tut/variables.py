@@ -1,7 +1,35 @@
-# this comment where you can write note and this is not 
+"""variables"""
 
-a=10
-b=2.3
-c="hello"
+# sher = "harsh bhaiya"
 
-print(type(a),type(b),type(c))
+# SheryiansSchool = "students" #pascal case
+
+# sheryiansSchool = "students" #camel case
+
+# sheryians_school = "students" #snake case
+
+
+
+
+"""data types"""
+
+a = -34
+
+b = 56.8
+c = 12/3
+
+v = 34j
+
+print(type(v))
+
+
+
+st = '1231243235 dsagaiogiaeb !@#$%^&*'
+
+print(type(st))
+
+b = True
+
+t = False
+
+print(type(b))

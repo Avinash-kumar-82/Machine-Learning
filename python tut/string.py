@@ -1,12 +1,6 @@
-a="hello"
-print(a[0])
+"""strings"""
+
+a = "SHER CODER"
 
 
-# print the by using -(ve) indexing
-
-print(a[-1])
-
-# string slicing
-
-a="hello"
-print(a[1:4:1])
+print(a[::])
